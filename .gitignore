@@ -1,0 +1,31 @@
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Entorno virtual
+venv/
+env/
+
+# Archivos de PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE y editores de texto
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivo de icono (si decides no incluirlo en el repositorio)
+# notepad_icon.ico
